@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "demo3",
+=======
+  "name": "router",
+>>>>>>> 853e98f66ab6ac429553eef369a6efb92fcf08ad
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -33,8 +37,13 @@
     "tslib": "^2.3.0"
   },
   "devDependencies": {
+<<<<<<< HEAD
     "@angular/build": "^21.1.1",
     "@angular/cli": "^21.1.1",
+=======
+    "@angular/build": "^21.1.2",
+    "@angular/cli": "^21.1.2",
+>>>>>>> 853e98f66ab6ac429553eef369a6efb92fcf08ad
     "@angular/compiler-cli": "^21.1.0",
     "jsdom": "^27.1.0",
     "typescript": "~5.9.2",
